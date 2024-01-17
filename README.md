@@ -1,2 +1,2 @@
-# Netflix-
-Simple Netflix with API
+# Netflix
+ Netflix with API
